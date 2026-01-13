@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Just a personal profile for a very unorganized (2nd year) compsci student.
+Just a personal profile for a very unorganized (3rd year) IT compsci student.
 
 Will be uploading whatever projects I'm working on, but dont expect nothing soon.
 
