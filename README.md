@@ -56,15 +56,6 @@ ASM(x86) ████████░░░░░░░░░░░░  40%
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohoxdd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohoxdd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" />
-</p>
-
----
-
 ```
 > All your base are belong to us
 ```
