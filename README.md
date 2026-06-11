@@ -13,14 +13,14 @@ Low-level enthusiast & exploit tinkerer
 
 ---
 
-### 🧠 Interests
+### Interests
 
-`🔍 Pentesting` &nbsp; `🛡️ Forensics` &nbsp; `💀 Reverse Engineering` &nbsp; `🌐 Network Security`  
-`⚙️ Binary Exploitation` &nbsp; `🕵️ OSINT` &nbsp; `🔐 Cryptography`
+`Pentesting` &nbsp; `Forensics` &nbsp; `Reverse Engineering` &nbsp; `Network Security`  
+`Binary Exploitation` &nbsp; `OSINT` &nbsp; `Cryptography`
 
 ---
 
-### ⚡ Languages & Tools
+### Languages & Tools
 
 ```
 C/C++    ████████████████░░░░  80%
@@ -44,7 +44,7 @@ ASM(x86) ████████░░░░░░░░░░░░  40%
 
 ---
 
-### 🔧 Current Toolbox
+### Current Toolbox
 
 | Category        | Tools                                                             |
 | --------------- | ----------------------------------------------------------------- |
